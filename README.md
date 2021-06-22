@@ -14,3 +14,4 @@ Install the **Required** Python Libraries
 ### Further Processing
 * Descriptive Statistics of Trade-Volume, Price and Liquidity
 * Visualization
+* ![plot](
