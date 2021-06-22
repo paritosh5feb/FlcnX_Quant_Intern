@@ -14,4 +14,4 @@ Install the **Required** Python Libraries
 ### Further Processing
 * Descriptive Statistics of Trade-Volume, Price and Liquidity
 * Visualization
-* ![plot](
+* ![plot](https://github.com/paritosh5feb/FlcnX_Quant_Intern.git/blob/master/amountUSD.png?raw=true)
