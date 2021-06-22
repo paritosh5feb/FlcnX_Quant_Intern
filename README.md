@@ -1,2 +1,2 @@
 # FlcnX_Quant_Intern
-FalconX Quant Internship Assignment
+FalconX Quantitave Analyst Internship Assignment
